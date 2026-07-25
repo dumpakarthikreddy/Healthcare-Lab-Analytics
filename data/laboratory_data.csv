@@ -1,0 +1,21 @@
+Patient_ID,Patient_Name,Age,Gender,Department,Lab_Name,Test_Code,Test_Name,Sample_Status,Machine_Name,Parameter_Name,Parameter_Value,Unit,Reference_Range,Result_Status,Test_Date,Test_Time
+P001,Rahul Sharma,45,Male,Biochemistry,Apollo Lab,BS001,Blood Sugar,Verified,Cobas c311,Glucose,98,mg/dL,70-110,Normal,2026-07-24,10:15
+P002,Priya Reddy,52,Female,Hematology,MedPlus Lab,CBC001,Complete Blood Count,Verified,Sysmex XN-1000,Hemoglobin,10.8,g/dL,12-16,Low,2026-07-24,10:40
+P003,Amit Kumar,34,Male,Biochemistry,Apollo Lab,BS001,Blood Sugar,Verified,Cobas c311,Glucose,145,mg/dL,70-110,High,2026-07-24,11:00
+P004,Anjali Verma,29,Female,Hematology,Apollo Lab,CBC001,Complete Blood Count,Verified,Sysmex XN-1000,Hemoglobin,12.8,g/dL,12-16,Normal,2026-07-24,11:15
+P005,Suresh Reddy,56,Male,Biochemistry,MedPlus Lab,LFT001,Liver Function Test,Verified,Cobas c501,ALT,65,U/L,7-56,High,2026-07-24,11:30
+P006,Pooja Sharma,41,Female,Clinical Pathology,City Diagnostic,UR001,Urine Routine,Reported,UriSed 3 Pro,WBC,2,Cells/HPF,0-5,Normal,2026-07-24,11:45
+P007,Rahul Nair,38,Male,Microbiology,HealthCare Lab,CUL001,Urine Culture,Processing,BD Phoenix,Bacterial Count,150000,CFU/mL,<100000,High,2026-07-24,12:00
+P008,Divya Patel,24,Female,Biochemistry,Apollo Lab,KFT001,Kidney Function Test,Verified,Cobas c311,Creatinine,0.9,mg/dL,0.6-1.2,Normal,2026-07-24,12:15
+P009,Vikram Singh,63,Male,Hematology,MedPlus Lab,CBC001,Complete Blood Count,Verified,Sysmex XN-1000,Hemoglobin,9.5,g/dL,13-17,Low,2026-07-24,12:30
+P010,Meena Rao,48,Female,Endocrinology,City Diagnostic,HBA1C001,HbA1c,Verified,HPLC Analyzer,HbA1c,7.8,%,4.0-5.6,High,2026-07-24,12:45
+P011,Kiran Kumar,36,Male,Biochemistry,Apollo Lab,LIP001,Lipid Profile,Verified,Cobas c501,Cholesterol,210,mg/dL,<200,High,2026-07-24,13:00
+P012,Sneha Gupta,31,Female,Immunology,HealthCare Lab,TSH001,Thyroid Profile,Verified,Architect i2000,TSH,2.4,mIU/L,0.4-4.0,Normal,2026-07-24,13:15
+P013,Arjun Das,44,Male,Biochemistry,City Diagnostic,BS001,Blood Sugar,Verified,Cobas c311,Glucose,88,mg/dL,70-110,Normal,2026-07-24,13:30
+P014,Kavya Reddy,52,Female,Cardiology,Apollo Lab,TROP001,Troponin-I,Verified,VIDAS,Troponin-I,0.03,ng/mL,<0.04,Normal,2026-07-24,13:45
+P015,Ramesh Patel,60,Male,Biochemistry,MedPlus Lab,KFT001,Kidney Function Test,Verified,Cobas c311,Creatinine,1.8,mg/dL,0.6-1.2,High,2026-07-24,14:00
+P016,Nisha Iyer,27,Female,Hematology,HealthCare Lab,CBC001,Complete Blood Count,Verified,Sysmex XN-1000,WBC,7200,Cells/uL,4000-11000,Normal,2026-07-24,14:15
+P017,Harish Kumar,50,Male,Endocrinology,City Diagnostic,HBA1C001,HbA1c,Verified,HPLC Analyzer,HbA1c,5.4,%,4.0-5.6,Normal,2026-07-24,14:30
+P018,Priyanka Singh,39,Female,Biochemistry,Apollo Lab,LFT001,Liver Function Test,Reported,Cobas c501,ALT,42,U/L,7-56,Normal,2026-07-24,14:45
+P019,Santosh Rao,58,Male,Cardiology,MedPlus Lab,TROP001,Troponin-I,Verified,VIDAS,Troponin-I,0.08,ng/mL,<0.04,Critical,2026-07-24,15:00
+P020,Deepika Sharma,33,Female,Biochemistry,City Diagnostic,LIP001,Lipid Profile,Verified,Cobas c501,Cholesterol,185,mg/dL,<200,Normal,2026-07-24,15:15
